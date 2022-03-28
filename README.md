@@ -1,4 +1,3 @@
 # 2Dgame-in-Python
 
-This is my first python project, I did a 2D game in python using pygame module
-Just try this code 
+This is my first python project and i submitted this as my 12th grade final cs project, it is a 2D game made with pygame module

@@ -11,7 +11,7 @@ def game():
     background = pygame.image.load('group 1.png')
 
     # screen resolution
-    res = (1000, 600)
+    res = (1000, 602)
 
     # opening a window
     screen = pygame.display.set_mode(res)
